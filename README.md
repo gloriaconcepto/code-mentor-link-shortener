@@ -12,6 +12,7 @@ html
 
 ## Screenshots and demo
 Screenshots of your app and/or a link to your live demo
+![Screen shots](https://github.com/gloriaconcepto/code-mentor-link-shortener/blob/main/public/urlShortended.PNG)
 
 ## Installation
 Instructions for other developers on how to install and run your code on their local environment.
