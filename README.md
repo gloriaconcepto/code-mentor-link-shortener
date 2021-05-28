@@ -1,7 +1,7 @@
 # DevProjects - {url-shortened}
 
 This is an open source project from [DevProjects](http://www.codementor.io/projects). Feedback and questions are welcome!
-Find the project requirements here: [{project_name}](url)
+Find the project requirements here: [url-shortened](https://url-shorten-mmk.netlify.app/)
 
 ## Tech/framework used
 Built with 
@@ -9,7 +9,8 @@ React.js,
 Bitly,
 css,
 html
-
+###
+Need following improvement can be added_ error handle toast,spinner (have fun)
 ## Screenshots and demo
 Screenshots of your app and/or a link to your live demo
 ![Screen shots](https://github.com/gloriaconcepto/code-mentor-link-shortener/blob/main/public/urlShortended.PNG)
